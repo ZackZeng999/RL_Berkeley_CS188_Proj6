@@ -35,7 +35,9 @@ The agents are tested in various environments such as Gridworld, Crawler, and Pa
    To test your implementation
    ```bash
    python autograder.py
+   
    To run a specific question (e.g., Q2)
    ```bash
    python autograder.py -q q2
+   
    Each question corresponds to a part of the assignment and will print the score, expected output, and any differences.
