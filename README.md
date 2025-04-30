@@ -9,7 +9,7 @@ In this project, we implemented several key reinforcement learning techniques:
 - **Value Iteration**: Solve a known MDP using dynamic programming to compute the optimal policy.
 - **Q-Learning**: Learn the optimal policy through model-free temporal-difference learning.
 - **Approximate Q-Learning**: Use feature-based representations to generalize Q-values across large state spaces.
-- **(Optional)** Deep Q-Learning: Extend learning to neural networks (not part of the original spec).
+- **Deep Q-Learning**: Extend learning to neural networks (not part of the original spec).
 
 The agents are tested in various environments such as Gridworld, Crawler, and Pacman.
 
