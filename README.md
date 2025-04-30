@@ -1,4 +1,4 @@
-# CS188 Project 6: Reinforcement Learning
+# Berkeley CS188 Project 6: Reinforcement Learning
 
 This repository contains my implementation of Project 6 from UC Berkeley's CS188: Introduction to Artificial Intelligence. The project focuses on reinforcement learning methods applied to the Pacman environment.
 
