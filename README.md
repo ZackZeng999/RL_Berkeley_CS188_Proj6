@@ -33,6 +33,7 @@ The agents are tested in various environments such as Gridworld, Crawler, and Pa
    cd RL_CS188_Proj6
    ```
 2. Run the audograder:
+
    To test your implementation
    ```bash
    python autograder.py
