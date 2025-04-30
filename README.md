@@ -43,3 +43,9 @@ The agents are tested in various environments such as Gridworld, Crawler, and Pa
    python autograder.py -q q2
    ```
    Each question corresponds to a part of the assignment and will print the score, expected output, and any differences.
+
+## 📚 References
+
+- [Project 6 Instructions](https://inst.eecs.berkeley.edu/~cs188/sp24/projects/proj6/)
+- [CS188 Course Website](https://inst.eecs.berkeley.edu/~cs188/sp24/)
+
