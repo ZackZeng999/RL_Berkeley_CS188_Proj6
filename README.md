@@ -31,13 +31,14 @@ The agents are tested in various environments such as Gridworld, Crawler, and Pa
    ```bash
    git clone https://github.com/ZackZeng999/RL_Berkeley_CS188_Proj6.git
    cd RL_CS188_Proj6
+   ```
 2. Run the audograder:
    To test your implementation
    ```bash
    python autograder.py
-   
+   ```
    To run a specific question (e.g., Q2)
    ```bash
    python autograder.py -q q2
-   
+   ```
    Each question corresponds to a part of the assignment and will print the score, expected output, and any differences.
