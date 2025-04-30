@@ -1,0 +1,14 @@
+---
+:id: 252513172
+:submitters:
+- :name: Jiaqi Wei
+  :email: jiaqi.wei@berkeley.edu
+- :name: Ziwen Zeng
+  :email: zengzw@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-06 06:01:47.193262000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-05 23:01:47.193262000 Z
+:status: processed
+:score: 26.0
